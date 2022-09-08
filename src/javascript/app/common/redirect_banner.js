@@ -1,3 +1,4 @@
+const Cookies = require('js-cookie');
 const DerivBanner = require('./deriv_banner');
 const BinarySocket = require('../base/socket');
 const State = require('../../_common/storage').State;
@@ -12,14 +13,18 @@ const RedirectBanner = (() => {
             const eu_country = isEuCountrySelected(Client.get('residence')) || isEuCountrySelected(State.getResponse('website_status.clients_country'));
             if (eu_country) {
                 handleRedirect();
+            } else if (!Cookies.get('row-lp-visited')) {
+                handleRowRedirect();
             }
-            
         });
 
     };
 
     const handleRedirect = () => {
         window.location.href = '/move-to-deriv/';
+    };
+    const handleRowRedirect = () => {
+        window.location.href = '/binary-to-deriv/';
     };
 
     const loginOnLoad = () => {
