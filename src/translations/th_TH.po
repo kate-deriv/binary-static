@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-08-29 09:58\n"
+"PO-Revision-Date: 2022-09-21 02:35\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -538,9 +538,6 @@ msgstr "(ง) ความเป็นไปได้ในการทำข้
 msgid "(e) Size and nature"
 msgstr "(จ) ขนาดและลักษณะ"
 
-msgid "*Cryptocurrency pairs are not available for DMT5 Financial accounts registered with Deriv (V) Ltd."
-msgstr "*คู่สกุลเงินดิจิทัลไม่สามารถใช้ได้กับบัญชีการเงิน DMT5 ที่ลงทะเบียนกับ Deriv (V) Ltd."
-
 msgid "0 – 19.999%"
 msgstr "0 – 19.999%"
 
@@ -822,6 +819,9 @@ msgstr "มีตาแหลมคมในการระบุแนวโน
 
 msgid "A lifelong interest in accounting, and an aptitude for numbers"
 msgstr "มีความสนใจมานานในด้านบัญชีและมีความถนัดในการทำงานกับตัวเลข"
+
+msgid "A link can contain the word \"Binary\" and still be fake."
+msgstr ""
 
 msgid "A list of accepted payment methods"
 msgstr "วิธีการชำระเงิน"
@@ -2152,6 +2152,9 @@ msgstr "BetOnMarkets.com มีมูลค่าซื้อขายรวม 
 msgid "Betting system and method"
 msgstr "ระบบการพนันและวิธีการ"
 
+msgid "Beware of the fake links."
+msgstr ""
+
 msgid "Bid"
 msgstr "ประมูล"
 
@@ -2809,8 +2812,8 @@ msgstr "ลูกค้ายินยอมที่จะดำเนินต
 msgid "Clients are also advised that their rights may be prejudiced if they provide the wrong information as the Company would not be in a position to act in their best interests."
 msgstr "ลูกค้าพึงทราบว่า อาจเกิดความลำเอียงในสิทธิ์ที่ได้รับ หากลูกค้าให้ข้อมูลที่ไม่ถูกต้อง ทำให้บริษัทฯ ไม่อยู่ในสถานะที่จะดำเนินการเพื่อประโยชน์สูงสุดของลูกค้าได้"
 
-msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. This company does not offer CFDs on cryptocurrencies. %1 is not available in the Republic of Vanuatu."
-msgstr "ลูกค้าจากประเทศอื่นๆ ทั่วโลก (ยกเว้นบางประเทศ เช่น สหรัฐอเมริกา แคนาดา ฮ่องกง) จะมีบัญชี FX และบัญชี CFD Metatrader 5 ที่เปิดบัญชีกับ Deriv (V) Ltd หากแต่ บริษัทนี้ไม่มี CFD ในคริปโตเคอเรนซี่ %1 จะไม่ได้ให้บริการในสาธารณรัฐวานูอาตู"
+msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. %1 is not available in the Republic of Vanuatu."
+msgstr ""
 
 msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, and Hong Kong) will have their account opened with Deriv (SVG) LLC."
 msgstr "ลูกค้าอื่นๆ ทั่วโลก (ที่ไม่ได้อยู่ในประเทศเหล่านี้ ได้แก่ สหรัฐอเมริกา แคนาดาและฮ่องกง) จะเปิดบัญชีกับ Deriv (SVG) LLC"
@@ -4055,8 +4058,14 @@ msgstr "ความหลากหลาย"
 msgid "Divorce Settlement"
 msgstr "ข้อตกลงการหย่า"
 
+msgid "Do not get lured to fake \"Binary\" pages!"
+msgstr ""
+
 msgid "Do not trade when you are tired or are under the influence of alcohol."
 msgstr "โปรดอย่าเทรดเมื่อท่านเหนื่อยล้า หรือ เมื่อท่านอยู่ในภาวะที่มีแอลกอฮอล์"
+
+msgid "Do not trust and give away your credentials on fake websites, ads or emails."
+msgstr ""
 
 msgid "Do you manage a social media page that's dedicated to online trading? Partner with us and convert your audience into potential profit."
 msgstr "ท่านกำลังจัดการเพจสื่อสังคมออนไลน์เฉพาะสำหรับการซื้อขายออนไลน์ใช่ไหม? ร่วมเป็นพันธมิตรกับเราเพื่อเปลี่ยนให้ผู้เยี่ยมชมเพจของท่านเป็นโอกาสสร้างรายได้"
@@ -4625,6 +4634,9 @@ msgstr "ตัวอย่าง:"
 msgid "Example: XAU/USD (Gold vs US dollar) symbol pair"
 msgstr "ตัวอย่าง: คู่สัญลักษณ์ XAU/USD (ทองคำ เทียบกับ ดอลลาร์สหรัฐ)"
 
+msgid "Examples"
+msgstr ""
+
 msgid "Excellent English language skills, both oral and written"
 msgstr "มีทักษะภาษาอังกฤษดีเยี่ยมในการสื่อสารทางคำพูดและการเขียน"
 
@@ -4943,6 +4955,9 @@ msgstr "มีความยุติธรรม และแม่นยำ�
 msgid "Fairly and accurately describe the Agent's services to the clients."
 msgstr "อธิบายบริการของตัวแทนให้กับลูกค้าอย่างเป็นธรรมและถูกต้อง"
 
+msgid "Fake links often contain the word that looks like \"Binary\" but look out for these differences."
+msgstr ""
+
 msgid "Familiarity with Git"
 msgstr "ความคุ้นเคยกับ Git"
 
@@ -5143,6 +5158,9 @@ msgstr "ติดตามผลในคำแนะนำและระยะ
 
 msgid "Follow, comply, and implement with all business-related directions, policies, and procedures of the Company as amended or re-enacted or replaced from time to time."
 msgstr "ปฏิบัติตาม เป็นไปตามหลักการ และการนำไปใช้เพื่อเป็นแนวทางที่เกี่ยวข้องกับการดำเนินธุรกิจทั้งหมด นโยบายต่างๆ และกระบวนการของบริษัทฯ ตามที่ได้แก้ไข หรือ ทำซ้ำ หรือ แทนที่ แล้วแต่กรณี"
+
+msgid "Fondex Limited "
+msgstr ""
 
 msgid "Food Services"
 msgstr "งานบริการเกี่ยวกับอาหาร"
@@ -5458,6 +5476,9 @@ msgstr "รางวัล Global Brands ปี 2018"
 
 msgid "Global Brands Magazine"
 msgstr "นิตยสาร Global Brands"
+
+msgid "Global Pop Liquidity Solutions Ltd"
+msgstr ""
 
 msgid "Glossary"
 msgstr "อภิธานศัพท์"
@@ -5843,6 +5864,9 @@ msgstr "ฉันสนใจ"
 msgid "I'm no longer interested in trading."
 msgstr "ฉันไม่สนใจการซื้อขายอีกต่อไป"
 
+msgid "I've read the above carefully."
+msgstr ""
+
 msgid "I. Trading"
 msgstr "ฌ. การซื้อขาย"
 
@@ -6010,6 +6034,9 @@ msgstr "หากการสมัครของผู้สมัครปร
 
 msgid "If the bid price is 1.05229, you'll buy 1.05229 USD for every 1 EUR you sell."
 msgstr "หากราคาเสนอซื้อ คือ 1.05229 คุณจะซื้อที่ราคา 1.05229 USD สำหรับทุกๆ 1 EUR ที่คุณขาย"
+
+msgid "If the client account has been locked or suspended and has not recorded any transactions for a period of twelve months or more, the Company reserves the right to rescind the client account funds."
+msgstr ""
 
 msgid "If the client agrees with a DRC’s decision, the client will need to accept it within 4 weeks. If the client does not respond to the DRC’s decision within 4 weeks, the complaint is considered closed."
 msgstr ""
@@ -8169,6 +8196,9 @@ msgstr "OAuth App ID"
 msgid "OK"
 msgstr "OK"
 
+msgid "OK, got it"
+msgstr ""
+
 msgid "OMG/USD"
 msgstr "OMG/USD"
 
@@ -8294,6 +8324,9 @@ msgstr "เฉพาะตัวอักษร ตัวเลข เว้น�
 
 msgid "Only letters, space, hyphen, period, and apostrophe are allowed."
 msgstr "ตัวอักษร ช่องว่าง ขีดกลาง จุด และ เครื่องหมายอัญประกาศ ( ' ) เท่านั้น ที่สามารถใช้ได้"
+
+msgid "Only log in to your account at this secure link, never elsewhere."
+msgstr ""
 
 msgid "Only one account is allowed per person. No withdrawals and/or refunds may be collected on accounts opened in false names or on multiple accounts opened by the same person."
 msgstr "อนุญาตให้มีบัญชีเพียง 1 บัญชีต่อบุคคล จะไม่มีการถอน และ/หรือ คืนเงินจากบัญชีที่เปิดด้วยชื่อที่ไม่ถูกต้อง หรือ หลายๆบัญชีที่เปิดโดยคนเดียวกัน"
@@ -9227,9 +9260,6 @@ msgstr "ราคา / ข้อมูลราคา"
 
 msgid "Primary"
 msgstr "หลัก"
-
-msgid "Prime Brokerage Services Limited"
-msgstr "Prime Brokerage Services Limited"
 
 msgid "Prior to placing an Order, which results in opening a position, the client acknowledges that it is their responsibility to ensure that their Account Free Margin is sufficient to cover the Margin required in relation to the opening of the position (the \"Margin Requirement\"), and to continuously meet the Margin Requirement."
 msgstr "ก่อนการส่งคำสั่งซื้อที่จะทำให้เกิดการเปิดธุรกรรม ลูกค้าทราบว่า ถือเป็นความรับผิดชอบของลูกค้าที่จะตรวจสอบให้แน่ใจว่า บัญชีมีมาร์จินฟรีเพียงพอสำหรับจำนวนมาร์จินที่กำหนดไว้เพื่อการเปิดธุรกรรม (\"ข้อกำหนดของมาร์จิน\") และเพื่อให้คงสภาพตามข้อกำหนดของมาร์จินนี้อย่างต่อเนื่อง"
@@ -11109,9 +11139,6 @@ msgstr "ขอขอบคุณสำหรับการลงทะเบี
 msgid "Thank you for your interest in partnering with us. We've made it easy for you to apply online. Just fill out the %1online application form%2 with all necessary details. If you are already registered as a %3 affiliate, you can email us at %4 instead. We will contact you directly if your application is successful."
 msgstr "ขอขอบคุณที่ท่านสนใจร่วมเป็นพันธมิตรกับเรา เราทำให้การสมัครออนไลน์นั้นง่ายสำหรับท่าน เพียงแค่กรอก %1 แบบฟอร์มออนไลน์%2 โดยบันทึกข้อมูลของท่าน ถ้าท่านได้ลงทะเบียนเป็น %3พันธมิตรแล้ว ท่านสามารถส่งอีเมล์หาเราที่ %4 เราจะติดต่อกับท่านโดยตรง หากท่านมีใบสมัครของท่านผ่านการพิจารณา"
 
-msgid "Thank you, we'll get back to you within 24 hours"
-msgstr "ขอบคุณ เราจะติดต่อกลับภายใน 24 ชั่วโมง"
-
 msgid "That contravenes any laws, regulations, instruments, ordinances, or rules that govern the operation of any exchange, financial market, or financial regulatory environment"
 msgstr "ซึ่งโต้แย้งกับกฎหมายใดๆ หลักเกณฑ์ใดๆ เครื่องมือใดๆ กฤษฎีกา หรือ กฎที่กำกับการปฏิบัติการใดๆ ในการแลกเปลี่ยน ตลาดการเงิน หรือ องค์ภาวะที่บังคับทางการเงิน"
 
@@ -12029,6 +12056,9 @@ msgstr "ข้อความดังกล่าวข้างต้นจะ
 
 msgid "The clauses above shall not apply in its entirety to any Introducing Brokers who are contracted to provide Introducing Broker services with Deriv Investments (Europe) Limited."
 msgstr "ข้อกำหนดข้างต้นจะไม่มีผลอย่างสมบูรณ์กับโบรกเกอร์แนะนำใดๆ ที่ทำสัญญาให้บริการโบรกเกอร์แนะนำกับ Deriv Investments (Europe) Limited"
+
+msgid "The client account funds will be rescinded if the client account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
+msgstr ""
 
 msgid "The client acknowledges and accepts that a trade may be subject to market rules laid down in by-laws, rules, provisions, customs, and practices of an exchange, a market, a clearing house, a body, or any other organisation involved in the execution, clearing, and/or settlement of the said trade. Should any such organisation take decisions or measures which affect a trade or an Open Position, the Company shall be entitled to take any action (including closing any Open Position of the client) that it, at its sole discretion, considers reasonable. "
 msgstr "ลูกค้าทราบและยอมรับว่า ธุรกรรมอาจจะขึ้นอยู่กับกฎของตลาดที่ประกาศในเทศบัญญัติ กฎ ข้อกำหนด เงื่อไขศุลกากร และระเบียบปฏิบัติในตลาดแลกเปลี่ยน ตลาดหนึ่งๆ หรือ สำนักหักบัญชี องค์กรที่เกี่ยวข้องกับการประมวลผล หักบัญชี และ/หรือ การชำระหนี้ของธุรกรรมที่กล่าวถึง หากองค์กรดังกล่าวตัดสินใจหรือดำเนินการตามมาตรการซึ่งมีผลกระทบกับธุรกรรมหรือสถานะเปิด บริษัทฯ จะมีสิทธิ์ที่จะปฏิบัติการ (รวมถึงการปิดสถานะเปิดของลูกค้า) ตามที่บริษัทฯ เห็นว่า เหมาะสมตามดุลยพินิจของบริษัทฯ "
@@ -13153,9 +13183,6 @@ msgstr "มีข้อผิดพลาดในการเติมเงิ
 
 msgid "Top-up successful"
 msgstr "การเติมเงินสำเร็จ"
-
-msgid "TopFX Ltd"
-msgstr "TopFX Ltd"
 
 msgid "Total"
 msgstr "ผลรวม"
@@ -14957,6 +14984,9 @@ msgstr "ท่านสามารถโอนเงินได้ระหว
 msgid "You may open one account for each supported cryptocurrency."
 msgstr "ท่านอาจจะเปิดหนึ่งบัญชีเพื่อรอองรับเงินดิจิทัลแต่ละประเภท"
 
+msgid "You may see links to websites with a fake Binary login page where you’ll get scammed for your money. "
+msgstr ""
+
 msgid "You must also submit a proof of address."
 msgstr "นอกจากนี้ต้องส่งหลักฐานยืนยันที่อยู่ของคุณด้วย"
 
@@ -15121,12 +15151,6 @@ msgstr "การเข้าถึงแคชเชียร์ของคุ
 
 msgid "Your account does not need authentication at this time.%1We will inform you if authentication is required in the future."
 msgstr "บัญชีของท่านยังไม่ต้องดำเนินการยืนยันตัวตนในขณะนี้ %1 เราจะแจ้งให้ทราบ หากต้องดำเนินการ"
-
-msgid "Your account funds will be rescinded if your account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
-msgstr "เงินในบัญชีของคุณจะถูกยกเลิกหากบัญชีของคุณไม่มีการใช้งานเป็นเวลา 30 วันด้วยยอดคงเหลือในบัญชี USD/AUD/EUR/GBP1 หรือน้อยกว่า"
-
-msgid "Your account funds will be rescinded if your account has been locked or has not recorded any transactions for a period of more than twelve months."
-msgstr "เงินในบัญชีของคุณจะถูกยกเลิกหากบัญชีของคุณถูกล็อคหรือไม่ได้บันทึกธุรกรรมใดๆ เป็นระยะเวลานานกว่าสิบสองเดือน"
 
 msgid "Your account has been verified successfully"
 msgstr "บัญชีของท่านได้รับการตรวจสอบสมบูรณ์แล้ว"

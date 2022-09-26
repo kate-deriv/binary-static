@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-09-01 08:08\n"
+"PO-Revision-Date: 2022-09-21 02:35\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "MIME-Version: 1.0\n"
@@ -538,9 +538,6 @@ msgstr "(d) khả năng thanh toán"
 msgid "(e) Size and nature"
 msgstr "(e) Kích thước và tính chất"
 
-msgid "*Cryptocurrency pairs are not available for DMT5 Financial accounts registered with Deriv (V) Ltd."
-msgstr "*Cặp tiền cryptocurrency không khả dụng cho tài khoản Tài chính DMT5 đăng ký với Deriv (V) Ltd."
-
 msgid "0 – 19.999%"
 msgstr "0 – 19.999%"
 
@@ -822,6 +819,9 @@ msgstr "Một con mắt tinh tường trong xác định các xu hướng mới 
 
 msgid "A lifelong interest in accounting, and an aptitude for numbers"
 msgstr "Một sở thích lâu dài trong ngành kế toán, và có năng khiếu với các con số"
+
+msgid "A link can contain the word \"Binary\" and still be fake."
+msgstr ""
 
 msgid "A list of accepted payment methods"
 msgstr "Danh sách các hình thức thanh toán được chấp nhận"
@@ -2153,6 +2153,9 @@ msgstr "BetOnMarkets.com đạt doanh thu 1 tỷ đô la Mỹ tính từ thời 
 msgid "Betting system and method"
 msgstr "Hệ thống và phương thức Cá Cược"
 
+msgid "Beware of the fake links."
+msgstr ""
+
 msgid "Bid"
 msgstr "Giá thầu"
 
@@ -2810,8 +2813,8 @@ msgstr "Khách hàng đồng ý tuân thủ với các yêu cầu hợp lý củ
 msgid "Clients are also advised that their rights may be prejudiced if they provide the wrong information as the Company would not be in a position to act in their best interests."
 msgstr "Khách hàng cũng được khuyên rằng các quyền của họ có thể sẽ bị giới hạn nếu họ cung cấp thông tin sai sự thật và khi đó Công Ty sẽ không ở vị trí để có thể hành động vì lợi ích tốt nhất cho họ."
 
-msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. This company does not offer CFDs on cryptocurrencies. %1 is not available in the Republic of Vanuatu."
-msgstr "Khách hàng từ những nơi khác (không bao gồm một số quốc gia như Hoa Kỳ, Canada, Hồng Kông) sẽ mở tài khoản FX và CFD Metatrader 5 của họ với Deriv (V) Ltd. Công ty này không cung cấp CFD trên tiền điện tử. %1 không khả dụng ở Cộng hòa Vanuatu."
+msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. %1 is not available in the Republic of Vanuatu."
+msgstr ""
 
 msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, and Hong Kong) will have their account opened with Deriv (SVG) LLC."
 msgstr "Các khách hàng đến từ các khu vực còn lại trên thế giới (trừ một số quốc gia như Mỹ, Canada, và Hồng Kông) thì tài khoản của họ sẽ được mở với Công ty TNHH Deriv (SVG)."
@@ -4055,8 +4058,14 @@ msgstr "Sự đa dạng"
 msgid "Divorce Settlement"
 msgstr "Thỏa Thuận Tách Ra"
 
+msgid "Do not get lured to fake \"Binary\" pages!"
+msgstr ""
+
 msgid "Do not trade when you are tired or are under the influence of alcohol."
 msgstr "Không nên giao dịch khi bạn mệt mỏi hoặc đang có cồn trong người."
+
+msgid "Do not trust and give away your credentials on fake websites, ads or emails."
+msgstr ""
 
 msgid "Do you manage a social media page that's dedicated to online trading? Partner with us and convert your audience into potential profit."
 msgstr "Bạn có đang quản lý một trang truyền thông xã hội là dành riêng cho giao dịch trực tuyến? Hợp tác với chúng tôi và biến các đối tượng tham gia trang truyền thông của bạn thành lợi nhuận tiềm năng."
@@ -4625,6 +4634,9 @@ msgstr "Ví dụ:"
 msgid "Example: XAU/USD (Gold vs US dollar) symbol pair"
 msgstr "Ví dụ: Cặp ký hiệu XAU/USD (Vàng so với đô la Mỹ)"
 
+msgid "Examples"
+msgstr ""
+
 msgid "Excellent English language skills, both oral and written"
 msgstr "Thông thạo tiếng Anh cả nói và viết"
 
@@ -4943,6 +4955,9 @@ msgstr "Công bằng và chính xác khi mô tả hoạt động kinh doanh
 msgid "Fairly and accurately describe the Agent's services to the clients."
 msgstr "Mô tả công bằng và chính xác các dịch vụ của Đại Lý cho Khách hàng."
 
+msgid "Fake links often contain the word that looks like \"Binary\" but look out for these differences."
+msgstr ""
+
 msgid "Familiarity with Git"
 msgstr "Thông thạo Git"
 
@@ -5143,6 +5158,9 @@ msgstr "Theo dõi trên các khuyến nghị và thời gian cho các hành đ�
 
 msgid "Follow, comply, and implement with all business-related directions, policies, and procedures of the Company as amended or re-enacted or replaced from time to time."
 msgstr "Theo dõi, tuân thủ và thực hiện tất cả các hướng dẫn, chính sách và thủ tục liên quan đến kinh doanh của Công ty như được sửa đổi hoặc ban hành lại hoặc thay thế theo thời gian."
+
+msgid "Fondex Limited "
+msgstr ""
 
 msgid "Food Services"
 msgstr "Dịch vụ ăn uống"
@@ -5458,6 +5476,9 @@ msgstr "Global Brands Awards 2018"
 
 msgid "Global Brands Magazine"
 msgstr "Tạp chí Global Brands"
+
+msgid "Global Pop Liquidity Solutions Ltd"
+msgstr ""
 
 msgid "Glossary"
 msgstr "Thuật ngữ"
@@ -5844,6 +5865,9 @@ msgstr "Tôi có hứng thú quan tâm"
 msgid "I'm no longer interested in trading."
 msgstr "Tôi không còn hứng thú với giao dịch."
 
+msgid "I've read the above carefully."
+msgstr ""
+
 msgid "I. Trading"
 msgstr "I. Giao dịch"
 
@@ -6011,6 +6035,9 @@ msgstr "Nếu hồ sơ của ứng viên được thông qua và lời đề ngh
 
 msgid "If the bid price is 1.05229, you'll buy 1.05229 USD for every 1 EUR you sell."
 msgstr "Nếu giá thầu là 1.05229, bạn sẽ mua 1.05229 USD cho mỗi 1 EUR bạn bán."
+
+msgid "If the client account has been locked or suspended and has not recorded any transactions for a period of twelve months or more, the Company reserves the right to rescind the client account funds."
+msgstr ""
 
 msgid "If the client agrees with a DRC’s decision, the client will need to accept it within 4 weeks. If the client does not respond to the DRC’s decision within 4 weeks, the complaint is considered closed."
 msgstr "Nếu khách hàng đồng ý với quyết định của DRC, khách hàng sẽ cần phải chấp nhận quyết định đó trong vòng 4 tuần. Nếu khách hàng không trả lời quyết định của DRC trong vòng 4 tuần, khiếu nại được coi là đã đóng."
@@ -8169,6 +8196,9 @@ msgstr "ID Ứng Dụng OAuth"
 msgid "OK"
 msgstr "Ok"
 
+msgid "OK, got it"
+msgstr ""
+
 msgid "OMG/USD"
 msgstr "OMG/USD"
 
@@ -8294,6 +8324,9 @@ msgstr "Chỉ chữ cái, số, space, gạch dưới và dấu nối được p
 
 msgid "Only letters, space, hyphen, period, and apostrophe are allowed."
 msgstr "Chỉ chữ cái, khoảng trắng, dấu nối, dấu chấm hết và dấu nháy đơn được cho phép."
+
+msgid "Only log in to your account at this secure link, never elsewhere."
+msgstr ""
 
 msgid "Only one account is allowed per person. No withdrawals and/or refunds may be collected on accounts opened in false names or on multiple accounts opened by the same person."
 msgstr "Chỉ cho phép một người sử dụng một tài khoản. Không có rút tiền hoặc tiền bồi hoàn vào trong tài khoản với tên sai hoặc nhiều tài khoản được mở bởi cùng một người."
@@ -9227,9 +9260,6 @@ msgstr "Giá / Dữ liệu giá"
 
 msgid "Primary"
 msgstr "Chủ yếu"
-
-msgid "Prime Brokerage Services Limited"
-msgstr "Dịch vụ Hữu hạn Môi giới Cao cấp"
 
 msgid "Prior to placing an Order, which results in opening a position, the client acknowledges that it is their responsibility to ensure that their Account Free Margin is sufficient to cover the Margin required in relation to the opening of the position (the \"Margin Requirement\"), and to continuously meet the Margin Requirement."
 msgstr "Trước khi đặt một Lệnh mà kết quả trong việc mở một phiên giao dịch, khách hàng thừa nhận rằng họ có trách nhiệm đảm bảo rằng tài khoản Biên Tự Do của mình có thể trang trải các Biên yêu cầu liên quan đến các giao dịch mở (\"Điều Kiện Biên\"), và liên tục đáp ứng Điều Kiện Biên."
@@ -11109,9 +11139,6 @@ msgstr "Cảm ơn bạn đã đăng ký! Vui lòng kiểm tra email của bạn 
 msgid "Thank you for your interest in partnering with us. We've made it easy for you to apply online. Just fill out the %1online application form%2 with all necessary details. If you are already registered as a %3 affiliate, you can email us at %4 instead. We will contact you directly if your application is successful."
 msgstr "Cảm ơn bạn đã quan tâm đến việc hợp tác với chúng tôi. Chúng tôi sẽ giúp cho bạn có thể dễ dàng đăng ký trực tuyến. Chỉ cần điền các thông tin cần thiết vào %1oHồ Sơ Đăng Ký Trực Tuyến%2. Nếu bạn đã được đăng ký như là một liên kết %3, bạn có thể gửi email cho chúng tôi tại %4. Chúng tôi sẽ liên lạc với bạn trực tiếp nếu đơn đăng kí của bạn thành công."
 
-msgid "Thank you, we'll get back to you within 24 hours"
-msgstr "Cảm ơn bạn, chúng tôi sẽ liên hệ lại với bạn trong vòng 24 giờ"
-
 msgid "That contravenes any laws, regulations, instruments, ordinances, or rules that govern the operation of any exchange, financial market, or financial regulatory environment"
 msgstr "Việc vi phạm bất kỳ điều luật, quy định, công cụ, pháp lệnh hoặc quy tắc nào chi phối hoạt động của bất kỳ giao dịch, thị trường tài chính, hoặc môi trường quy định tài chính; hoặc"
 
@@ -12030,6 +12057,9 @@ msgstr "Điều khoản trên sẽ không áp dụng cho bất kỳ thông tin n
 
 msgid "The clauses above shall not apply in its entirety to any Introducing Brokers who are contracted to provide Introducing Broker services with Deriv Investments (Europe) Limited."
 msgstr "Các điều khoản trên sẽ không áp dụng toàn bộ cho bất kỳ Nhà môi giới nào đã được ký hợp đồng cung cấp dịch vụ Giới thiệu môi giới với Công ty Đầu tư Deriv Limited (Châu Âu)."
+
+msgid "The client account funds will be rescinded if the client account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
+msgstr ""
 
 msgid "The client acknowledges and accepts that a trade may be subject to market rules laid down in by-laws, rules, provisions, customs, and practices of an exchange, a market, a clearing house, a body, or any other organisation involved in the execution, clearing, and/or settlement of the said trade. Should any such organisation take decisions or measures which affect a trade or an Open Position, the Company shall be entitled to take any action (including closing any Open Position of the client) that it, at its sole discretion, considers reasonable. "
 msgstr "Khách hàng công nhận và chấp nhận rằng một giao dịch có thể bị ảnh hưởng bởi những quy định của thị trường như pháp luật, quy tắc, chỉ thị, hải quan và thực tiễn của một cuộc trao đổi, một thị trường, một nhà giải thể, một phần hoặc bất kỳ tổ chức khác có liên quan trong việc thực hiện, thanh toán bù trừ, và/hoặc giải quyết Giao Dịch nói trên. Bất kỳ tổ chức như vậy sẽ quyết định hoặc có biện pháp ảnh hưởng đến một Giao Dịch hoặc một Phiên Mở, Công Ty sẽ được quyền thực hiện bất kỳ hành động (bao gồm cả đóng bất kỳ Phiên Mở của khách hàng) theo ý mình, sau khi xem xét hợp lý. "
@@ -13152,9 +13182,6 @@ msgstr "Lỗi nạp"
 
 msgid "Top-up successful"
 msgstr "Nạp thành công"
-
-msgid "TopFX Ltd"
-msgstr "TopFX Ltd"
 
 msgid "Total"
 msgstr "Tổng"
@@ -14956,6 +14983,9 @@ msgstr "Bạn chỉ có thể chuyển tiền giữa các tài khoản tiền th
 msgid "You may open one account for each supported cryptocurrency."
 msgstr "Bạn được phép mở một tài khoản cho mỗi đồng tiền ảo được hỗ trợ."
 
+msgid "You may see links to websites with a fake Binary login page where you’ll get scammed for your money. "
+msgstr ""
+
 msgid "You must also submit a proof of address."
 msgstr "Bạn cũng cần gửi một bản xác minh địa chỉ."
 
@@ -15120,12 +15150,6 @@ msgstr "Quyền truy cập của bạn vào Thu ngân tạm thời bị vô hi�
 
 msgid "Your account does not need authentication at this time.%1We will inform you if authentication is required in the future."
 msgstr "Tại thời điểm này tài khoản của bạn chưa cần phải xác minh. %1Chúng tôi sẽ thông báo cho bạn khi nào cần phải xác thực tài khoản trong tương lai."
-
-msgid "Your account funds will be rescinded if your account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
-msgstr "Số dư tài khoản của bạn sẽ bị huỷ nếu như tài khoản của bạn không hoạt động trong 30 ngày và số dư tài khoản thấp hơn hoặc bằng 1 USD/AUD/EUR/GBP."
-
-msgid "Your account funds will be rescinded if your account has been locked or has not recorded any transactions for a period of more than twelve months."
-msgstr "Số dư tài khoản của bạn sẽ bị huỷ nếu như tài khoản của bạn bị khoá hoặc không ghi nhận giao dịch nào trong vòng 12 tháng trở lên."
 
 msgid "Your account has been verified successfully"
 msgstr "Tài khoản của bạn đã được xác thực thành công"
