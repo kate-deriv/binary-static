@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-07 06:36\n"
+"PO-Revision-Date: 2022-10-19 05:47\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "MIME-Version: 1.0\n"
@@ -1664,9 +1664,6 @@ msgstr "Là một trung tâm kiến thức công nghệ cao, Cyberjaya thích s�
 msgid "As a result, the client's trades are executed at market as follows:"
 msgstr "Kết quả giao dịch của khách hàng được thực hiện tại thị trường như sau:"
 
-msgid "As a strong proponent of open source, we encourage publication of findings, methods, and tools via GitHub and our technical blog at %1 You will also assist our developers in understanding and patching the bugs that you find."
-msgstr "Với tư cách là một bên ủng hộ mạnh mẽ của mã nguồn mở, chúng tôi khuyến khích công bố các kết quả tìm kiếm, phương pháp, và công cụ qua GitHub và qua blog kỹ thuật của chúng tôi ở %1 Bạn cũng sẽ hỗ trợ các lập trình viên của chúng tôi trong việc tìm hiểu cũng như vá các lỗi mà bạn tìm thấy."
-
 msgid "As an example, Expert Advisors might be able to be programmed for"
 msgstr "Ví dụ, Chuyên Gia Tư Vấn có thể được lập trình cho"
 
@@ -3021,7 +3018,7 @@ msgid "Company's rights"
 msgstr "Quyền của công ty"
 
 msgid "Compare MetaTrader 5 accounts"
-msgstr ""
+msgstr "So sánh các tài khoản MetaTrader 5"
 
 msgid "Compensation under Investor Compensation Scheme"
 msgstr "Bồi thường theo Đề Án Bồi Thường Nhà Đầu Tư"
@@ -3759,7 +3756,7 @@ msgid "Demo CFDs"
 msgstr "Demo CFD"
 
 msgid "Demo Derived"
-msgstr ""
+msgstr "Demo có nguồn gốc"
 
 msgid "Demo Financial"
 msgstr "Tài chính demo"
@@ -3828,7 +3825,7 @@ msgid "Deposit: Instant"
 msgstr "Gửi tiền: tức thì"
 
 msgid "Deposits and withdrawals for your MT5 account always pass through your binary options account."
-msgstr ""
+msgstr "Tiền gửi và tiền rút tài khoản MT5 luôn vượt qua thông qua tài khoản lựa chọn nhị phân của bạn."
 
 msgid "Deposits and/or payments due are to be made in the currency chosen by the client from the ones specified by DIEL from time to time."
 msgstr "Tiền gửi và / hoặc các khoản thanh toán phải được thực hiện bằng đơn vị tiền tệ mà bạn đã chọn từ những loại tiền mà DIEL chỉ định theo thời gian."
@@ -3864,7 +3861,7 @@ msgid "Deriv (FX) Ltd, Deriv BVI (Ltd), or"
 msgstr "Deriv (FX) Ltd, Deriv BVI (Ltd), hoặc"
 
 msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia. Licensed and regulated by the Labuan Financial Services Authority to carry on a money-broking business %1(licence no. MB/18/0024)%2. A member of the %3Labuan Fintech Association%4."
-msgstr ""
+msgstr "Deriv (FX) Ltd., Lô số F16, Tầng 1, Paragon Labuan, Jalan Tun Mustapha, 87000 Lãnh thổ liên bang Labuan, Malaysia. Được cấp phép và quy định bởi Cơ quan Dịch vụ Tài chính Labuan để hoạt động như một doanh nghiệp môi giới tiền %1(giấy phép số MB/18/0024)%2. Một thành viên của %3Hiệp hội Fintech Labuan%4."
 
 msgid "Deriv (FX) Ltd: Labuan, Territory of Malaysia"
 msgstr "Deriv (FX) Ltd: Labuan, Lãnh thổ Malaysia"
@@ -3945,10 +3942,10 @@ msgid "Derivative investment instruments such as binary options and related mark
 msgstr "Các công cụ đầu tư phái sinh như các tùy chọn nhị phân và các thị trường liên quan có thể có rủi ro rất cao. Giá của công cụ cơ bản mà Binary Options đề cập đến có thể dao động rất nhanh trên phạm vi rộng và có thể phản ánh các sự kiện hoặc thay đổi trong các điều kiện không lường trước được, và không thể kiểm soát được bởi khách hàng hoặc %1."
 
 msgid "Derived"
-msgstr ""
+msgstr "Có nguồn gốc"
 
 msgid "Derived Account"
-msgstr ""
+msgstr "Tài khoản có nguồn gốc"
 
 msgid "Description"
 msgstr "Mô tả"
@@ -5139,7 +5136,7 @@ msgid "First-class client service."
 msgstr "Dịch vụ chăm sóc khách hàng thượng lưu."
 
 msgid "Fixed spreads"
-msgstr ""
+msgstr "Biên lãi cố định"
 
 msgid "Fixing problems and providing feedback for improvement."
 msgstr "Sửa chữa vấn đề và cung cấp thông tin phản hồi để cải thiện."
@@ -7075,7 +7072,7 @@ msgid "Leverage up to %1"
 msgstr "Đòn bẩy lên tới %1"
 
 msgid "Leverage up to 1:1000"
-msgstr ""
+msgstr "Đòn bẩy lên tới 1:1000"
 
 msgid "Leverage, in the context of margin trading, refers to the use of margin to increase/amplify the value of a trade. Leverage is expressed as a ratio. A 50:1 leverage, for example, means that the client would be able to enter into a trade position that is of 50 times higher than the client's margin. When the client invests in a leveraged product, the client's profit or loss is based on the leveraged position, i.e. the increased/amplified value of the client's trade is determined based on the leverage ratio that the client has set for the client's account."
 msgstr "Đòn bẩy, trong trường hợp giao dịch ký quỹ, ý nói đến việc sử dụng biên để tăng/khuếch đại giá trị của một giao dịch. Đòn bẩy được thể hiện như một tỷ lệ. Ví dụ, một đòn bẩy với tỉ lệ 50: 1, có nghĩa là khách hàng sẽ có thể mở một phiên giao dịch gấp 50 lần so với biên của họ. Khi khách hàng đầu tư vào một sản phẩm sử dụng đòn bẩy, lợi nhuận hoặc thua lỗ của họ được xác định dựa trên phiên đòn bẩy, tức là, giá trị gia tăng/khuếch đại của giao dịch của khách hàng được xác định dựa trên tỷ lệ đòn bẩy họ đặt cho tài khoản."
@@ -8485,7 +8482,7 @@ msgid "Our Company"
 msgstr "Công Ty Của Chúng Tôi"
 
 msgid "Our Derived account allows you to trade CFDs on Derived Indices - our proprietary Derived assets that simulate market forces."
-msgstr ""
+msgstr "Tài khoản có nguồn gốc của chúng tôi cho phép bạn giao dịch CFD trên các chỉ số có nguồn gốc - tài sản có nguồn gốc độc quyền của chúng tôi mô phỏng lực lượng thị trường."
 
 msgid "Our MT5 servers are temporarily unavailable. We're working to restore them. Please try again in a few minutes."
 msgstr "Máy chủ MT5 của chúng tôi tạm thời không khả dụng. Chúng tôi đang làm việc để khôi phục chúng. Vui lòng thử lại trong vài phút."
@@ -8641,7 +8638,7 @@ msgid "Partners"
 msgstr "Đối tác"
 
 msgid "Parts of this clause may not apply to Synthetic Indices, basket indices, and derived FX."
-msgstr ""
+msgstr "Các phần của điều khoản này có thể không áp dụng cho Chỉ số tổng hợp, basket indices hàng và FX có nguồn gốc."
 
 msgid "Passion for Linux and other open-source platforms"
 msgstr "Niềm đam mê với Linux và các nền tảng mã nguồn mở khác"
@@ -9573,9 +9570,6 @@ msgstr "Đọc giới thiệu đơn giản của chúng tôi về công cụ d�
 msgid "Read the %1 company blog"
 msgstr "Đọc blog của công ty %1"
 
-msgid "Read the %1 tech blog"
-msgstr "Đọc blog công nghệ %1"
-
 msgid "Ready to trade?"
 msgstr "Bạn đã sẵn sàng giao dịch?"
 
@@ -9592,7 +9586,7 @@ msgid "Real CFDs"
 msgstr "CFD thực"
 
 msgid "Real Derived"
-msgstr ""
+msgstr "Có nguồn gốc thực"
 
 msgid "Real Estate"
 msgstr "Bất Động Sản"
@@ -10957,7 +10951,7 @@ msgid "Synthetics Account"
 msgstr "Tài khoản Tổng hợp"
 
 msgid "Synthetics, Basket indices"
-msgstr ""
+msgstr "Tổng hợp, chỉ số giỏ"
 
 msgid "System Administrator"
 msgstr "Quản trị viên hệ thống"
@@ -11362,7 +11356,7 @@ msgid "The Commencement Date of this agreement shall mean the date on which the 
 msgstr "Ngày bắt đầu của thỏa thuận này có nghĩa là ngày tài khoản của Đại lý được Công ty phê duyệt."
 
 msgid "The Company Prices are determined by reference to the price of the Underlying Instrument which is quoted on external exchanges or dealing facilities that %1 selects at the Company's discretion. The Company's IT infrastructure and price aggregator system facilitate the reception of quotes from shortlisted prime brokers, who act as liquidity providers for the Company and the delivery of the quotes, derived with reference against relevant benchmark and markets, to the client. The client acknowledges that the Company Prices may differ from the Bids and Asks made available by external exchanges or dealing facilities and the Company is not liable for any losses that the client might incur arising from such differences. This clause does not apply to Synthetic Indices, basket indices, and derived FX."
-msgstr ""
+msgstr "Giá của Công ty được xác định bằng cách tham chiếu đến mức giá của các công cụ cơ bản được trích dẫn bên ngoài giao dịch hoặc các cơ sở xử lý mà %1 lựa chọn theo ý của Công ty. Cơ sở hạ tầng công nghệ thông tin và hệ thống tổng hợp giá của Công ty tạo điều kiện tiếp nhận báo giá từ người môi giới quan trọng lọt vào danh sách những người hoạt động như các nhà cung cấp thanh khoản đối với Công ty và gửi báo giá, với tài liệu tham khảo chuẩn mực và thị trường có liên quan, cho khách hàng. Khách hàng thừa nhận rằng giá của Công ty có thể khác với Giá thầu và Giá cung cấp thực thu thập qua các trao đổi bên ngoài hoặc các cơ sở xử lý và Công ty không chịu trách nhiệm về bất kỳ mất mát nào khách hàng phải trả phát sinh từ sự khác biệt như vậy. Điều khoản này không áp dụng cho Chỉ số Tổng Hợp, chỉ số giỏ hàng và FX có nguồn gốc.\n\n"
 
 msgid "The Company aims to keep a record of the kinds of activity that the Company carries on in which a material conflict could arise or has arisen. The Company also maintains procedures to manage actual or potential conflicts. This includes procedures to maintain appropriate independence among members of the Company's staff who are involved in potentially conflicting activities. Such independence-upholding procedures can be followed, for example, through the operation of information barriers, physical separation of staff, the segregation of duties and responsibilities, and the maintenance of a policy of independence, which requires the Company's staff, when providing services to a client, to act in the best interests of the client and to disregard any conflicts of interest, or in some circumstances, to decline to act for a client or potential client in order to avoid conflicts of interest."
 msgstr "Công ty muốn giữ các bản ghi những hoạt động Công ty đã thực hiện mà xung đột có thể phát sinh hoặc đã phát sinh. Công ty cũng muốn duy trì các quy trình để quản lý các xung đột đã phát sinh hoặc tiềm ẩn. Điều này cũng bao gồm cả quy trình duy trì tính độc lập thích hợp giữa các nhân viên của Công ty người mà có liên quan tới các hoạt động xung động tiền ẩn, ví dụ, thông qua hoạt động rào cản thông tin, tách biệt nhân viên, phân công trách nhiệm và bổn phận, yêu cầu nhân viên duy trì chính sách độc lập, khi cung cấp dịch vụ cho khách hàng, để hành động vì lợi ích tốt nhất của khách hàng và để bỏ qua các xung đột về lợi ích; và trong một vài trường hợp từ chối phục vụ cho khách hàng hoặc khách hàng tiềm năng để tránh các xung đột về lợi ích."
@@ -11686,7 +11680,7 @@ msgid "The Company shall, in its absolute discretion, determine whether the appl
 msgstr "Công Ty sẽ tự mình xác định xem ứng dụng của Nhà môi giới đã thành công hay chưa. Quyết định của Công Ty là cuối cùng và không thể kháng cáo."
 
 msgid "The Company sources market data from prime brokers who act as liquidity providers, thus executing the client's transactions through a pool of aggregated liquidity from top tier banks. The services offered by the Company do not include physical delivery of foreign currency by the Company or the prime brokers to the client. The client acknowledges and agrees that such data is proprietary to the Company and any such provider, and the client will not retransmit, redistribute, publish, disclose, or display in whole or in part such data to third parties. The client represents and warrants that they will only use such data for purposes of facilitating their entry into transactions with the Company on the client's MT5 Real Account in accordance with this agreement and not for any other purpose. This clause does not apply to Synthetic Indices, basket indices, and derived FX."
-msgstr ""
+msgstr "Nguồn dữ liệu thị trường của Công Ty từ môi giới chính, những người hoạt động như các nhà cung cấp thanh khoản, từ đó thực hiện các giao dịch của khách hàng thông qua một danh sách các khả năng thanh toán tổng hợp từ các ngân hàng hàng đầu. Các dịch vụ được cung cấp bởi Công ty không bao gồm chuyển phát tiền mặt ngoại tệ bởi Công ty hoặc người môi giới chính cho khách hàng. Khách hàng công nhận và đồng ý rằng các dữ liệu đó là độc quyền của Công ty và bất kỳ nhà cung cấp nào, và khách hàng sẽ không tái chuyển khoản, phân phối, xuất bản, tiết lộ hoặc hiển thị toàn bộ hoặc một phần dữ liệu đó cho bên thứ ba. Khách hàng tuyên bố và bảo đảm rằng họ chỉ sẽ sử dụng dữ liệu đó để tạo điều kiện giao dịch với Công ty vào tài khoản của họ tuân thủ thỏa thuận này và không cho bất kỳ mục đích nào khác. Khoản này không áp dụng cho Chỉ Số Tổng Hợp, chỉ số giỏ hàng và FX có nguồn gốc."
 
 msgid "The Company strives to ensure that all the orders placed are executed; however, this is not always possible due to material difficulty or unusual circumstances. In any instance that the Company is aware of any material difficulty relevant to the proper execution of an order, it promptly informs the client of the issue."
 msgstr "Công Ty cố gắng đảm bảo rằng tất cả các lệnh sẽ được thực hiện, tuy nhiên, điều này không phải lúc nào cũng có thể do khó khăn về vật chất hoặc hoàn cảnh bất thường. Trong mọi trường hợp, khi Công Ty nhận thấy bất kỳ khó khăn quan trọng nào liên quan đến việc thực hiện lệnh thì Công Ty sẽ thông báo kịp thời cho khách hàng về vấn đề này."
@@ -11788,7 +11782,7 @@ msgid "The DRC will decide on the complaint (it should be noted that the DRC men
 msgstr "DRC sẽ quyết định khiếu nại (cần lưu ý rằng DRC không có khung thời gian để công bố quyết định của mình)."
 
 msgid "The Derived account allows you to trade contracts for difference (CFDs) on synthetics that mimic real-world movements. Available for trading 24/7 and audited for fairness by an independent third party."
-msgstr ""
+msgstr "Tài khoản có nguồn gốc cho phép bạn giao dịch các hợp đồng cho sự chênh lệch (CFD) trên tổng hợp bắt chước các chuyển động trong thế giới thực. Có sẵn để giao dịch 24/7 và được kiểm toán cho sự công bằng bởi một bên thứ ba độc lập."
 
 msgid "The Domain Name System (DNS) allows you to access a website through a user-friendly web address such as %1, instead of a complicated IP address."
 msgstr "Hệ thống tên miền (DNS) cho phép bạn truy cập một trang web thông qua địa chỉ web thân thiện với người dùng, chẳng hạn như %1, thay vì địa chỉ IP phức tạp."
@@ -12974,7 +12968,7 @@ msgid "This risk disclosure statement is not exhaustive and is not intended to c
 msgstr "Bản công bố về rủi ro này chưa đầy đủ và không nhằm mục đích tạo ra một tuyên bố toàn diện về tất cả các rủi ro mà khách hàng có thể gặp phải và không mô tả tất cả các rủi ro vốn có đối với ngoại hối và hợp đồng chênh lệch tồn tại hoặc có thể phát sinh trong tương lai. Mục tiêu của nó là cung cấp cho khách hàng thông tin, để khách hàng có thể hiểu một cách hợp lý các rủi ro liên quan đến ngoại hối và các hợp đồng được cung cấp bởi% 1, vì Công ty luôn mong muốn cung cấp cho khách hàng những trải nghiệm giao dịch tốt nhất có thể."
 
 msgid "This section on force majeure events does not apply to Synthetic Indices, basket indices, and derived FX."
-msgstr ""
+msgstr "Phần này về các sự kiện bất khả kháng không áp dụng cho Chỉ số tổng hợp, chỉ số giỏ hàng và FX có nguồn gốc."
 
 msgid "This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18."
 msgstr "Các dịch vụ của trang web này không được cung cấp ở một số quốc gia như Hoa Kỳ, Canada, Hồng Kông hoặc cho những người dưới 18 tuổi."
@@ -13469,10 +13463,10 @@ msgid "Transfer funds between your real money accounts."
 msgstr "Chuyển tiền giữa các tài khoản tiền thật của bạn."
 
 msgid "Transfer funds from your MT5 account into your binary options account."
-msgstr ""
+msgstr "Chuyển tiền từ tài khoản MT5 của bạn vào tài khoản lựa chọn nhị phân của bạn."
 
 msgid "Transfer funds from your binary options account into your MT5 account."
-msgstr ""
+msgstr "Chuyển tiền từ tài khoản lựa chọn nhị phân vào tài khoản MT5."
 
 msgid "Transfer funds to a payment agent"
 msgstr "Chuyển tiền đến một đại lý thanh toán"

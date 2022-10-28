@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-07 06:36\n"
+"PO-Revision-Date: 2022-10-19 05:47\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -1662,9 +1662,6 @@ msgstr "Un carrefour de connaissances de pointe, Cyberjaya bénéficie de la pr�
 
 msgid "As a result, the client's trades are executed at market as follows:"
 msgstr "Par conséquent, les trades du client sont exécutés au marché comme suit :"
-
-msgid "As a strong proponent of open source, we encourage publication of findings, methods, and tools via GitHub and our technical blog at %1 You will also assist our developers in understanding and patching the bugs that you find."
-msgstr "Comme fervent partisan de l’open source, nous encourageons la publication des résultats, des méthodes et outils via GitHub et notre blog technique à %1. Vous aiderez également nos développeurs à comprendre et à patcher les bugs que vous trouvez."
 
 msgid "As an example, Expert Advisors might be able to be programmed for"
 msgstr "À titre d’exemple, Expert Advisors pourrait pouvoir être programmé pour "
@@ -3863,7 +3860,7 @@ msgid "Deriv (FX) Ltd, Deriv BVI (Ltd), or"
 msgstr "Deriv (FX) Ltd, Deriv BVI (Ltd) ou"
 
 msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia. Licensed and regulated by the Labuan Financial Services Authority to carry on a money-broking business %1(licence no. MB/18/0024)%2. A member of the %3Labuan Fintech Association%4."
-msgstr ""
+msgstr "Deriv (FX) Ltd., numéro de lot F16, premier étage, Paragon Labuan, Jalan Tun Mustapha, 87000 Territoire fédéral de Labuan, Malaisie. Agréée et réglementée par l'Autorité des Services Financiers du Labuan afin d'exploiter une entreprise de courtage %1(licence nºMB/18/0024)%2. Membre de la %3Labuan Fintech Association%4."
 
 msgid "Deriv (FX) Ltd: Labuan, Territory of Malaysia"
 msgstr "Deriv (FX) Ltd: Labuan, Territoire de Malaisie"
@@ -8641,7 +8638,7 @@ msgid "Partners"
 msgstr "Partenaires"
 
 msgid "Parts of this clause may not apply to Synthetic Indices, basket indices, and derived FX."
-msgstr ""
+msgstr "Certaines parties de cette clause peuvent ne pas s'appliquer aux indices synthétiques, aux paniers d'indices et aux dérivés FX."
 
 msgid "Passion for Linux and other open-source platforms"
 msgstr "Passion pour Linux et autres plateformes open-source"
@@ -9573,9 +9570,6 @@ msgstr "Lisez notre introduction simple à cet instrument dérivé populaire pou
 
 msgid "Read the %1 company blog"
 msgstr "Lire le blog d’entreprise %1"
-
-msgid "Read the %1 tech blog"
-msgstr "Lire le blog tech %1"
 
 msgid "Ready to trade?"
 msgstr "Prêt à trader ?"
@@ -11363,7 +11357,7 @@ msgid "The Commencement Date of this agreement shall mean the date on which the 
 msgstr "La Date d'Entrée en Vigueur du présent accord désigne la date à laquelle le compte de l'Agent est approuvé par la Compagnie."
 
 msgid "The Company Prices are determined by reference to the price of the Underlying Instrument which is quoted on external exchanges or dealing facilities that %1 selects at the Company's discretion. The Company's IT infrastructure and price aggregator system facilitate the reception of quotes from shortlisted prime brokers, who act as liquidity providers for the Company and the delivery of the quotes, derived with reference against relevant benchmark and markets, to the client. The client acknowledges that the Company Prices may differ from the Bids and Asks made available by external exchanges or dealing facilities and the Company is not liable for any losses that the client might incur arising from such differences. This clause does not apply to Synthetic Indices, basket indices, and derived FX."
-msgstr ""
+msgstr "Les Prix de la Société sont déterminés par référence au prix de l'instrument sous-jacent qui est coté sur des bourses ou des centres de trading externes que %1 sélectionne à la discrétion de la Société. L'infrastructure informatique et le système d'agrégation des prix de la Société facilitent la réception des cotations des brokers principaux présélectionnés, qui agissent comme fournisseurs de liquidité pour la Société et la livraison des cotations, dérivées par rapport aux références et marchés pertinents, au client. Le client reconnaît que les Prix de la Société peuvent différer des Offres et des Demandes mises à disposition par des bourses ou négociateurs externes et la Société n'est pas responsable des pertes que le client pourrait subir en raison de ces différences. Cette clause ne s'applique pas aux Indices Synthétiques, aux Paniers d'Indices et aux Dérivés FX."
 
 msgid "The Company aims to keep a record of the kinds of activity that the Company carries on in which a material conflict could arise or has arisen. The Company also maintains procedures to manage actual or potential conflicts. This includes procedures to maintain appropriate independence among members of the Company's staff who are involved in potentially conflicting activities. Such independence-upholding procedures can be followed, for example, through the operation of information barriers, physical separation of staff, the segregation of duties and responsibilities, and the maintenance of a policy of independence, which requires the Company's staff, when providing services to a client, to act in the best interests of the client and to disregard any conflicts of interest, or in some circumstances, to decline to act for a client or potential client in order to avoid conflicts of interest."
 msgstr "La Compagnie vise à tenir un registre des types d'activités qu'elle exerce dans le cadre desquelles un conflit important pourrait survenir ou s'est produit. La Compagnie maintient également des procédures pour gérer les conflits réels ou potentiels. Cela comprend des procédures visant à maintenir une indépendance appropriée parmi les membres du personnel de la Compagnie qui sont impliqués dans des activités potentiellement conflictuelles. Ces procédures de maintien de l'indépendance peuvent être suivies, par exemple, par le fonctionnement de barrières à l'information, la séparation physique du personnel, la séparation des tâches et des responsabilités et le maintien d'une politique d'indépendance qui exige que le personnel de la Compagnie agisse dans l'intérêt du client et ignore tout conflit d'intérêts ou refuse dans certaines circonstances de prendre une mesure pour éviter un client ou client potentiel en raison de conflits d'intérêt en lui fournissant ses services."
@@ -11687,7 +11681,7 @@ msgid "The Company shall, in its absolute discretion, determine whether the appl
 msgstr "La Compagnie doit, à son entière discrétion, déterminer si la demande du Courtier Introducteur a été approuvée. La décision de la Compagnie est finale et sans appel."
 
 msgid "The Company sources market data from prime brokers who act as liquidity providers, thus executing the client's transactions through a pool of aggregated liquidity from top tier banks. The services offered by the Company do not include physical delivery of foreign currency by the Company or the prime brokers to the client. The client acknowledges and agrees that such data is proprietary to the Company and any such provider, and the client will not retransmit, redistribute, publish, disclose, or display in whole or in part such data to third parties. The client represents and warrants that they will only use such data for purposes of facilitating their entry into transactions with the Company on the client's MT5 Real Account in accordance with this agreement and not for any other purpose. This clause does not apply to Synthetic Indices, basket indices, and derived FX."
-msgstr ""
+msgstr "La Société s'approvisionne en données de marché auprès de brokers principaux qui agissent en tant que fournisseurs de liquidités, exécutant ainsi les transactions du client par le biais d'un pool de liquidités agrégées provenant de banques de premier plan. Les services offerts par la Société n'incluent pas la livraison physique de devises étrangères par la Société ou les principaux brokers au client. Le client reconnaît et accepte que ces données sont la propriété de la Société et de tout fournisseur de ce type, et le client ne retransmettra, ne redistribuera, ne publiera, ne divulguera ou n'affichera pas, en tout ou en partie, ces données à des tiers. Le client déclare et garantit qu'il n'utilisera ces données que dans le but de faciliter sa conclusion de transactions avec la Société sur le compte réel MT5 du client conformément au présent accord et à aucune autre fin. Cette clause ne s'applique pas aux indices synthétiques, aux panier d'indices et aux dérivés FX."
 
 msgid "The Company strives to ensure that all the orders placed are executed; however, this is not always possible due to material difficulty or unusual circumstances. In any instance that the Company is aware of any material difficulty relevant to the proper execution of an order, it promptly informs the client of the issue."
 msgstr "La Compagnie s’efforce de faire en sorte que tous les ordres soient exécutés; cependant, ce n’est pas toujours possible en raison de difficultés matérielles ou de circonstances inhabituelles. En tous les cas où la Compagnie connaît des difficultés matérielles pertinentes à la bonne exécution d’un ordre, elle informera promptement le client du problème."
@@ -12974,7 +12968,7 @@ msgid "This risk disclosure statement is not exhaustive and is not intended to c
 msgstr "Cette déclaration de divulgation des risques n'est pas exhaustive et n'a pas pour but de constituer une déclaration exhaustive de tous les risques auxquels le client pourrait être exposé et ne décrit pas tous les risques inhérents au forex et aux contrats pour différences qui existent actuellement ou qui pourraient survenir à l'avenir. Son objectif est plutôt de fournir au client des informations, afin que le client puisse raisonnablement comprendre les risques associés au forex et aux contrats pour les différences offerts par %1, car la Compagnie entend fournir au client la meilleure expérience possible en matière de trading."
 
 msgid "This section on force majeure events does not apply to Synthetic Indices, basket indices, and derived FX."
-msgstr ""
+msgstr "Cette section sur les cas de force majeure ne s'applique pas aux Indices Synthétiques, aux Paniers d'Indices et aux Dérivés FX."
 
 msgid "This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18."
 msgstr "Les services de ce site Web ne sont pas offerts dans certains pays comme les États-Unis, le Canada, le Hong Kong, ou aux personnes âgées de moins de 18 ans."
