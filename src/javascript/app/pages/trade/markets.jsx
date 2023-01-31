@@ -589,11 +589,11 @@ class Markets extends React.Component {
                             <div className='mobile'>
                                 <React.Fragment>
                                     <ul>
-                                        {Object.keys(group_markets).map((item, index) => {
+                                        {Object.keys(group_markets).map((item, idx) => {
                                             const derived_category = group_markets[item].markets[0].key;
                                             return (
                                                 item === 'none' ? (
-                                                    <React.Fragment key={index}>
+                                                    <React.Fragment key={`${item}_${idx}`}>
                                                         {group_markets[item].markets.map((m) => (
                                                             <li
                                                                 onClick = {scrollToMarket.bind(null, m.key)}
