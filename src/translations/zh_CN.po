@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-01-16 17:55\n"
+"PO-Revision-Date: 2023-02-07 04:34\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -1098,6 +1098,9 @@ msgstr "会计/支付"
 
 msgid "Accumulation of Income/Savings"
 msgstr "收入/储蓄积累"
+
+msgid "Accumulator"
+msgstr "累加器"
 
 msgid "Accuracy of information"
 msgstr "信息的准确性"
@@ -5461,6 +5464,9 @@ msgstr "前往 Deriv"
 
 msgid "Go to Deriv to add an MT5 account"
 msgstr "前往 Deriv 添加 MT5 账户"
+
+msgid "Go to Deriv to add an account"
+msgstr "前往 Deriv 添加账户"
 
 msgid "Go to MT5 download page"
 msgstr "前往 MT5 下载页面"
